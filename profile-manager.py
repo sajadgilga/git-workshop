@@ -4,8 +4,12 @@ print(user)
 
 print(age)
 print(name)
+
 profile = {
 "username": user,
 "name": name,
 "age": age
 }
+
+print("new print")
+
